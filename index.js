@@ -122,4 +122,4 @@ bot.on("message", async message => {
 
 });
 
-bot.login(NDc1MzU4OTQ1OTA1NDc1NjA1.DkfBJQ.SEBQqoaeISrBuklQv6Xx2XL3wVM);
+bot.login(tokenfile.token):
